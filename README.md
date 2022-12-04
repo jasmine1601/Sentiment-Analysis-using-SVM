@@ -16,6 +16,10 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/jasmine1601/Sentiment-Analysis-using-SVM?color=%233493eb&logo=Github)&nbsp;
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jasmine1601/Sentiment-Analysis-using-SVM/graphs/commit-activity)
 
+## Deployment
+
+My app is [deployed](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app) on [Streamlit Cloud](https://streamlit.io/cloud).
+
 ## Contributing
 
 This repository is contribution friendly. Refer to [Contribution Guidelines](.github/contributing.md).
